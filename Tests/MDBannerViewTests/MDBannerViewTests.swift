@@ -12,6 +12,6 @@ final class MDBannerViewTests: XCTestCase {
     }
     
     func testFramework() {
-//        let sut = BannerView()
+//        let sut = BannerView
     }
 }
