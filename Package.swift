@@ -23,6 +23,7 @@ let package = Package(
             dependencies: []),
         .testTarget(
             name: "MDBannerViewTests",
-            dependencies: ["MDBannerView"]),
+            dependencies: ["MDBannerView", "MDBannersView"]),
+        .binaryTarget(name: "MDBannersView", path: "MDBannersView.xcframework")
     ]
 )

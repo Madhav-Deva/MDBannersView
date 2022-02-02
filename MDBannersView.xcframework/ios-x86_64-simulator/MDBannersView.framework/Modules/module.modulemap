@@ -1,0 +1,11 @@
+framework module MDBannersView {
+  umbrella header "MDBannersView.h"
+
+  export *
+  module * { export * }
+}
+
+module MDBannersView.Swift {
+    header "MDBannersView-Swift.h"
+    requires objc
+}

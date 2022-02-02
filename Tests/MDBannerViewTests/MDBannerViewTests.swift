@@ -1,5 +1,7 @@
 import XCTest
 @testable import MDBannerView
+import MDBannersView
+
 
 final class MDBannerViewTests: XCTestCase {
     func testExample() throws {
@@ -7,5 +9,9 @@ final class MDBannerViewTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
         XCTAssertEqual(MDBannerView().text, "Hello, World!")
+    }
+    
+    func testFramework() {
+//        let sut = BannerView()
     }
 }
