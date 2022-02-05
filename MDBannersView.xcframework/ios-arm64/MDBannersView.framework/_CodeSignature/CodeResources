@@ -6,15 +6,15 @@
 	<dict>
 		<key>BannerView.nib</key>
 		<data>
-		EPHnLS5Kk83Sf2SxediFtQvQR40=
+		XzPLvJY/jQ1EOQuqdHpx5t2lOoA=
 		</data>
 		<key>BannerViewCell.nib</key>
 		<data>
-		1sPRoxjFAGuMFK6AASwVHTGxQwI=
+		sa8fDBJtlK5MpQzWyfP1dun1ndg=
 		</data>
 		<key>Headers/MDBannersView-Swift.h</key>
 		<data>
-		FlRfQvIE5y3+TqmEPoBwpwjotOY=
+		qVOP8IDbPXR5s7McCMlQOK5cbHg=
 		</data>
 		<key>Headers/MDBannersView.h</key>
 		<data>
@@ -22,31 +22,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1vXI++Kbm+sWLv2LY+0VOW+PegE=
+		bLRqJFoy3ZNNyOR2nklyEzhgeYs=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Xf8Z9AGOK9halyVFNCyczwxze0U=
+		vvzzJjKAK530AdergGCLa8GblHE=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		x4suHcsmaTUSb7tzhzLTDoqCQTA=
+		gkJ5cfv1l4cIMzL+wSsp3/G/iyk=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		YkpIPnmAD8Gmr9OCa+9LnkZ8S8g=
+		UsVfpDh9RxpVB483ZHwaVS5MOZ8=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		Xf8Z9AGOK9halyVFNCyczwxze0U=
+		vvzzJjKAK530AdergGCLa8GblHE=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		x4suHcsmaTUSb7tzhzLTDoqCQTA=
+		gkJ5cfv1l4cIMzL+wSsp3/G/iyk=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		YkpIPnmAD8Gmr9OCa+9LnkZ8S8g=
+		UsVfpDh9RxpVB483ZHwaVS5MOZ8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>README.md</key>
 		<data>
-		tDdagYaJKmaavl7che611N29Yiw=
+		gJKLrcsU3xSv7mlFqRenlRPjlk4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -63,21 +63,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			96BTXsj9QlraCwuOzLk53rui/wApc9A1XKmaaKwiHc8=
+			v8NQSZxNSjxH2qx8tkJ9cjFYzyZkdA+3JJBhBD6HjcA=
 			</data>
 		</dict>
 		<key>BannerViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HbozxUkm5GK6wDvndbdF1LyMMVCvUoGXrQ5X4Xz26ic=
+			G5xDDjAUG8osMyG/ntsYfJlcHvV95ADBpor7FwF3GOw=
 			</data>
 		</dict>
 		<key>Headers/MDBannersView-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6DwIbQT1SPmZLk916cAcffaFXl+TH6lOPsq6yjQAB9w=
+			DMURAM2xEkEPqrmMmV2twjIp1KAushRucBN1xqbz7RM=
 			</data>
 		</dict>
 		<key>Headers/MDBannersView.h</key>
@@ -91,42 +91,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/bdcWvSEseKgd3hPs2QCSyR3jbGWh//DFBhsc+aglc=
+			+kGyrNG/+5k9t/kPf58xriG+GIVPV5sTpjEUNCvvSWk=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3/bkxnkPDhPtidxScacXCWpLnW9QZWunvVG5lvZ3hU=
+			t5abAC4z6IIOfO8biXgcQNPja03RuKPenKtsTIi22B8=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BEPUnzaC2w/F3mU3V5bBFqDtXwZLhPpER3vQlSCGduI=
+			HklSrnZ2FNCeVpbWY4nATldJC+w15rvU9x+pK8/unIs=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/bdcWvSEseKgd3hPs2QCSyR3jbGWh//DFBhsc+aglc=
+			+kGyrNG/+5k9t/kPf58xriG+GIVPV5sTpjEUNCvvSWk=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3/bkxnkPDhPtidxScacXCWpLnW9QZWunvVG5lvZ3hU=
+			t5abAC4z6IIOfO8biXgcQNPja03RuKPenKtsTIi22B8=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BEPUnzaC2w/F3mU3V5bBFqDtXwZLhPpER3vQlSCGduI=
+			HklSrnZ2FNCeVpbWY4nATldJC+w15rvU9x+pK8/unIs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iInpCTzxa9g5gvWP6wH86ruG79m2AuSP6fB7OeABr3c=
+			5V6NA3X1Rap0E7VMHhrVfJqPSyqEGa9QrSXS9MxwYN8=
 			</data>
 		</dict>
 	</dict>

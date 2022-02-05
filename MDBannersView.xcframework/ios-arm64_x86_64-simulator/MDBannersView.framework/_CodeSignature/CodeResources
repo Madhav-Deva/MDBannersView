@@ -6,15 +6,15 @@
 	<dict>
 		<key>BannerView.nib</key>
 		<data>
-		PCxiQB2UoCN4eomARZ8dojpVjYM=
+		XzPLvJY/jQ1EOQuqdHpx5t2lOoA=
 		</data>
 		<key>BannerViewCell.nib</key>
 		<data>
-		MzKBnMSZkgUbooyfiEJ0wzYIWrs=
+		sa8fDBJtlK5MpQzWyfP1dun1ndg=
 		</data>
 		<key>Headers/MDBannersView-Swift.h</key>
 		<data>
-		FlRfQvIE5y3+TqmEPoBwpwjotOY=
+		JlDKHzYNz7HdRKFo5Mm74Kra4lo=
 		</data>
 		<key>Headers/MDBannersView.h</key>
 		<data>
@@ -22,31 +22,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		biEVsQvyiBMtbhtCFhkw4X+uLh0=
+		qoJMDGyOphf7ib1VYs49b4ky76w=
+		</data>
+		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		cotGqQCaO1ukG2QenXyIZAIPiOI=
+		</data>
+		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		2InOCvs4efETlhAzbmMgQ6jqSdA=
+		</data>
+		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		RlJbL2wGdyM1UE7Kk+mchwvX3Vs=
+		</data>
+		<key>Modules/MDBannersView.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		cotGqQCaO1ukG2QenXyIZAIPiOI=
+		</data>
+		<key>Modules/MDBannersView.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		2InOCvs4efETlhAzbmMgQ6jqSdA=
+		</data>
+		<key>Modules/MDBannersView.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		RlJbL2wGdyM1UE7Kk+mchwvX3Vs=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		yYaJT9F6qv67AVn1c5rXqLMhGzw=
+		LT5MeeJLoGyKVgxU1/y/bGrwQPQ=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IwAsBrcGVW30Yc7y9rX2vwmVxRA=
+		hBjxbBHxUMe5l+vB8pRJ99VEiXw=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wvJjcXB/2qnYKZg2wLXeMdh3Jvg=
+		/rxF6QWJmwHUt+Yoxh5csst3OjE=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		yYaJT9F6qv67AVn1c5rXqLMhGzw=
+		LT5MeeJLoGyKVgxU1/y/bGrwQPQ=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		IwAsBrcGVW30Yc7y9rX2vwmVxRA=
+		hBjxbBHxUMe5l+vB8pRJ99VEiXw=
 		</data>
 		<key>Modules/MDBannersView.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		wvJjcXB/2qnYKZg2wLXeMdh3Jvg=
+		/rxF6QWJmwHUt+Yoxh5csst3OjE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +78,7 @@
 		</data>
 		<key>README.md</key>
 		<data>
-		tDdagYaJKmaavl7che611N29Yiw=
+		gJKLrcsU3xSv7mlFqRenlRPjlk4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -63,21 +87,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AeL/7irRxV/n+oBCQgNqwEJaaBOqzPEx31+m79vipyk=
+			v8NQSZxNSjxH2qx8tkJ9cjFYzyZkdA+3JJBhBD6HjcA=
 			</data>
 		</dict>
 		<key>BannerViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p/1FYQ+6sg4uq1se2aUmix3xCvMcrqcn4CN9Qt1eHNg=
+			G5xDDjAUG8osMyG/ntsYfJlcHvV95ADBpor7FwF3GOw=
 			</data>
 		</dict>
 		<key>Headers/MDBannersView-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6DwIbQT1SPmZLk916cAcffaFXl+TH6lOPsq6yjQAB9w=
+			ZN7kbHOsifAQNpCMOCyG1msnSqM8uBG3dCh2NlmNO0Q=
 			</data>
 		</dict>
 		<key>Headers/MDBannersView.h</key>
@@ -87,46 +111,88 @@
 			tldMkleZvbS36dAxTYbta72SZSzXlVMoSalOz2qiTT8=
 			</data>
 		</dict>
+		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y71dGp2kO0SHEPIlXjTIfNv9yESy7PYmoNipq5TOTcE=
+			</data>
+		</dict>
+		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HBtCU9T14MJnj6D41/0QBIRF4CkUygP2nIsR/Iq6r2Y=
+			</data>
+		</dict>
+		<key>Modules/MDBannersView.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QfnB/bOOuJ4cYQSZ7XJN5Gt0GUagx6lm/iwz7fO9AMI=
+			</data>
+		</dict>
+		<key>Modules/MDBannersView.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y71dGp2kO0SHEPIlXjTIfNv9yESy7PYmoNipq5TOTcE=
+			</data>
+		</dict>
+		<key>Modules/MDBannersView.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HBtCU9T14MJnj6D41/0QBIRF4CkUygP2nIsR/Iq6r2Y=
+			</data>
+		</dict>
+		<key>Modules/MDBannersView.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QfnB/bOOuJ4cYQSZ7XJN5Gt0GUagx6lm/iwz7fO9AMI=
+			</data>
+		</dict>
 		<key>Modules/MDBannersView.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Hhe074YJIt9uQe/l70PB6TV++cmcP55SDOyecA2mk0=
+			/ap7QE+Mp1fLQwP4ZbuHXXGgy/do25OdZ1sA0RUEzdk=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bgFq+9VRfYem1WdeFwz9VNmliCy/slhctGInI8iB+5w=
+			mhHww1x+4+p+0JOe30QwsfzczHdzHhKaG+2aDfrpIqQ=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/tS3+izGHDfgb8VlIz1cJyy5JLFEarW2OTwMb0r6qmk=
+			FbWnAELtv02OkQclwK9EK7hi29w8RD8LOx9QoTSN/Hg=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Hhe074YJIt9uQe/l70PB6TV++cmcP55SDOyecA2mk0=
+			/ap7QE+Mp1fLQwP4ZbuHXXGgy/do25OdZ1sA0RUEzdk=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bgFq+9VRfYem1WdeFwz9VNmliCy/slhctGInI8iB+5w=
+			mhHww1x+4+p+0JOe30QwsfzczHdzHhKaG+2aDfrpIqQ=
 			</data>
 		</dict>
 		<key>Modules/MDBannersView.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/tS3+izGHDfgb8VlIz1cJyy5JLFEarW2OTwMb0r6qmk=
+			FbWnAELtv02OkQclwK9EK7hi29w8RD8LOx9QoTSN/Hg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -140,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iInpCTzxa9g5gvWP6wH86ruG79m2AuSP6fB7OeABr3c=
+			5V6NA3X1Rap0E7VMHhrVfJqPSyqEGa9QrSXS9MxwYN8=
 			</data>
 		</dict>
 	</dict>
