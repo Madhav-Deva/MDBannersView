@@ -62,4 +62,4 @@ In Storyboard, add UIView of desired size. Change its Custom Class name to Banne
 https://user-images.githubusercontent.com/6660695/152654048-a2ac7b88-898f-43a6-aa97-984e7fb89ce4.mov
 
 
-BannersView component comes with default caching and simmer animtion(used when images are downloaded using urls). You can customise the component by accessing the public functions.
+BannersView component comes with default caching and shimmer animtion(used when images are downloaded using urls). You can customise the component by accessing the public functions.
