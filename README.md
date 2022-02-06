@@ -16,7 +16,7 @@ You can use The Swift Package Manager to install MDBannersView by adding it to y
         name: "Your App",
         targets: [],
         dependencies: [
-            .Package(url: "https://github.com/Madhav-Deva/MDBannersView.git", .upToNextMajor(from: "1.0.1"))
+            .Package(url: "https://github.com/Madhav-Deva/MDBannersView.git", .upToNextMajor(from: "1.0.2"))
         ]
     )
     
