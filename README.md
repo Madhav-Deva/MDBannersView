@@ -2,7 +2,12 @@
 A swift package with an iOS UI component that loads and displays images from remote urls, local assets and displays in a slide-show form with an auto scroll feature. 
 
 
-Supports iOS 13+
+
+https://user-images.githubusercontent.com/6660695/152686693-72f8feed-7b64-4e95-858a-ef75fcf4ae3f.mov
+
+
+
+### Supports iOS 13+
 
 
 ## Installation
@@ -19,6 +24,21 @@ You can use The Swift Package Manager to install MDBannersView by adding it to y
             .Package(url: "https://github.com/Madhav-Deva/MDBannersView.git", .upToNextMajor(from: "1.0.2"))
         ]
     )
+    
+        
+[OR]
+
+- File > Swift Packages > Add Package Dependency
+- Add `https://github.com/Madhav-Deva/MDBannersView.git`
+- Select "Up to Next Major" with "1.0.2"
+    
+
+
+
+### CocoaPods
+
+     pod 'MDBannersView'
+
     
     
     
@@ -59,7 +79,6 @@ In Storyboard, add UIView of desired size. Change its Custom Class name to Banne
     }
 
 
-https://user-images.githubusercontent.com/6660695/152654048-a2ac7b88-898f-43a6-aa97-984e7fb89ce4.mov
 
 
 BannersView component comes with default caching and shimmer animation(used when images are downloaded using urls). You can customise the component by accessing the public functions.
