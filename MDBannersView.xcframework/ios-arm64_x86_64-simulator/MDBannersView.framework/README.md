@@ -63,3 +63,4 @@ https://user-images.githubusercontent.com/6660695/152654048-a2ac7b88-898f-43a6-a
 
 
 BannersView component comes with default caching and simmer animtion(used when images are downloaded using urls).
+

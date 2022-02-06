@@ -8,12 +8,14 @@ import UIKit
 import _Concurrency
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class BannerView : UIKit.UIView {
   @_Concurrency.MainActor(unsafe) public var didSelectItemAt: ((Foundation.IndexPath) -> ())?
+  @_Concurrency.MainActor(unsafe) public var imageViewContentMode: UIKit.UIView.ContentMode
   @_Concurrency.MainActor(unsafe) public var isAutoScrollEnabled: Swift.Bool {
     get
     set
   }
   @_Concurrency.MainActor(unsafe) public var animationDuration: Swift.Double
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreGraphics.CGRect)
+  @_Concurrency.MainActor(unsafe) public func setDefaultColors(colors: [UIKit.UIColor])
   @_Concurrency.MainActor(unsafe) public func setImages(names: [Swift.String])
   @_Concurrency.MainActor(unsafe) public func loadImages(imageUrls: [Swift.String])
   @objc deinit
